@@ -8,7 +8,7 @@
 
 
     </head>
-    <body class="antialiased">
+    <body class>
 
     <h1>Hello from France </h1>
 
